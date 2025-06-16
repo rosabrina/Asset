@@ -1,1 +1,1 @@
-# Asset
+# Operator Logika
